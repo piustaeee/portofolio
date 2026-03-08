@@ -315,27 +315,27 @@ section {
 
     0%,
     20% {
-        content: "Web Development";
+        content: "Web Developer";
     }
 
     21%,
     40% {
-        content: "Video Editing";
+        content: "Video Editor";
     }
 
     41%,
     60% {
-        content: "UI Design";
+        content: "UI Designer";
     }
 
     61%,
     80% {
-        content: "Graphic Design";
+        content: "Graphic Designer";
     }
 
     81%,
     100% {
-        content: "Network Management";
+        content: "Network Administrator";
     }
 }
 
